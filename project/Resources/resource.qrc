@@ -1,0 +1,149 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="empty_icon.png">images/empty_icon.png</file>
+        <file alias="refresh.svg">images/redo-solid.svg</file>
+        <file alias="human.jpg">images/filler_human_picture.jpg</file>
+        <file alias="close.png">images/close_icon.png</file>
+
+        <file alias="question_mark.png">images/question.png</file>
+
+        <!-- Pick-up Sports-->
+        <file alias="baseball.png">images/baseball.png</file>
+        <file alias="basketball.png">images/ball_of_basketball.png</file>
+        <file alias="football.png">images/rugby_ball.png</file>
+        <file alias="golf.png">images/golf.png</file>
+        <file alias="hockey.png">images/hockey.png</file>
+        <file alias="soccer.png">images/football.png</file>
+        <file alias="ultimate_frisbee.png">images/frisbee.png</file>
+        <file alias="volleyball.png">images/volleyball.png</file>
+
+        <!-- Working Out-->
+        <file alias="crossfit.png">images/weightlifting.png</file>
+        <file alias="cycling.png">images/bicycle.png</file>
+        <file alias="dance.png">images/dance.png</file>
+        <file alias="mma.png">images/boxing_fighter.png</file>
+        <file alias="pilates.png">images/pilates_ball.png</file>
+        <file alias="running.png">images/run.png</file>
+        <file alias="swimming.png">images/swimming_man.png</file>
+        <file alias="weightlifting.png">images/dumbbell.png</file>
+        <file alias="yoga.png">images/stretching.png</file>
+
+        <!-- Food-->
+        <file alias="american.png">images/fast_food.png</file>
+        <file alias="brunch.png">images/brunch.png</file>
+        <file alias="chinese.png">images/chinese_food.png</file>
+        <file alias="indian.png">images/laddu.png</file>
+        <file alias="italian.png">images/pasta.png</file>
+        <file alias="mexican.png">images/taco.png</file>
+        <file alias="pho.png">images/pho.png</file>
+        <file alias="sushi.png">images/sushi.png</file>
+        <file alias="thai.png">images/pad_thai.png</file>
+
+        <!-- Activities-->
+        <file alias="band_jam_session.png">images/drums.png</file>
+        <file alias="bar_hopping.png">images/toast.png</file>
+        <file alias="boating.png">images/boat.png</file>
+        <file alias="clubbing.png">images/bar.png</file>
+        <file alias="dancing.png">images/live_music.png</file>
+        <file alias="hiking.png">images/hiking.png</file>
+        <file alias="shopping.png">images/shopping_cart.png</file>
+        <file alias="skiing.png">images/ski.png</file>
+        <file alias="snowboarding.png">images/snowboard.png</file>
+        <file alias="water_activities.png">images/diving.png</file>
+
+        <!-- Social Drinking & Tastings-->
+        <file alias="beer.png">images/beer_bottle.png</file>
+        <file alias="spirits.png">images/whiskey.png</file>
+        <file alias="wine.png">images/cheers.png</file>
+
+        <!-- Sporting Entertainment-->
+        <file alias="baseball.png">images/baseball.png</file>
+        <file alias="basketball.png">images/ball_of_basketball.png</file>
+        <file alias="boxing.png">images/boxing_glove.png</file>
+        <file alias="football.png">images/rugby_ball.png</file>
+        <file alias="golf.png">images/golf.png</file>
+        <file alias="hockey.png">images/hockey.png</file>
+        <file alias="mma.png">images/boxing_fighter.png</file>
+        <file alias="soccer.png">images/football.png</file>
+        <file alias="tennis.png">images/tennis.png</file>
+
+        <!-- Beauty-->
+        <file alias="hair.png">images/beauty_salon.png</file>
+        <file alias="makeup.png">images/cosmetics.png</file>
+        <file alias="main_pedi.png">images/manicure.png</file>
+        <file alias="skin_care.png">images/mask.png</file>
+
+        <!-- Play Dates-->
+        <file alias="board_games.png">images/board_game.png</file>
+        <file alias="crafts.png">images/craft.png</file>
+        <file alias="fun_in_the_kitchen.png">images/chef.png</file>
+        <file alias="movies.png">images/animation.png</file>
+        <file alias="outings.png">images/carousel.png</file>
+        <file alias="park_day.png">images/park.png</file>
+
+        <!-- Concerts-->
+        <file alias="country.png">images/cowboy_hat.png</file>
+        <file alias="edm.png">images/edm.png</file>
+        <file alias="hip_hop.png">images/hip_hop.png</file>
+        <file alias="indie.png">images/guitar.png</file>
+        <file alias="jazz.png">images/saxophone.png</file>
+        <file alias="oldies.png">images/cassette_tape.png</file>
+        <file alias="pop.png">images/pop.png</file>
+        <file alias="rap.png">images/rap.png</file>
+        <file alias="rock.png">images/rock.png</file>
+
+        <!-- Poker-->
+        <file alias="5_card_draw.png">images/playing_cards_5.png</file>
+        <file alias="7_card_stud.png">images/seven_of_clubs.png</file>
+        <file alias="blind_man_bluff.png">images/playing_card.png</file>
+        <file alias="omaha_hold_em.png">images/playing_cards.png</file>
+        <file alias="texas_hold_em.png">images/texas.png</file>
+
+        <!-- Collectable Card Games-->
+        <file alias="magic_the_gathering.png">images/diamonds.png</file>
+        <file alias="pokemon.png">images/trading.png</file>
+        <file alias="yu_gi_oh.png">images/eye_of_ra.png</file>
+
+        <!-- Movies & TV-->
+        <file alias="action_adventure.png">images/action_movie.png</file>
+        <file alias="comedy.png">images/smile.png</file>
+        <file alias="drama.png">images/masks.png</file>
+        <file alias="reality_tv.png">images/family.png</file>
+        <file alias="thriller_suspense.png">images/killer.png</file>
+
+        <!-- Personal Development-->
+        <file alias="emotional.png">images/emotions.png</file>
+        <file alias="intellectual.png">images/brain.png</file>
+        <file alias="investing_and_finances.png">images/trend.png</file>
+        <file alias="relational.png">images/interactions.png</file>
+
+        <!-- Video Games-->
+        <file alias="battle_royale.png">images/battle_royale.png</file>
+        <file alias="digital_card_games.png">images/card_games.png</file>
+        <file alias="fps.png">images/target.png</file>
+        <file alias="mmorpg.png">images/magic_book.png</file>
+        <file alias="moba.png">images/moba.png</file>
+        <file alias="racing.png">images/sport_car.png</file>
+        <file alias="sports.png">images/sports.png</file>
+
+        <!-- DIY-->
+        <file alias="cars.png">images/car_repair.png</file>
+        <file alias="home_care.png">images/maintenance_house.png</file>
+        <file alias="refurbish_items.png">images/maintenance.png</file>
+        <file alias="restore_antiques.png">images/antique.png</file>
+
+        <!-- Board Games-->
+        <file alias="catan.png">images/catan.png</file>
+        <file alias="checkers.png">images/checker_board.png</file>
+        <file alias="chess.png">images/chess.png</file>
+        <file alias="dominoes.png">images/dominoes.png</file>
+        <file alias="dungeons_and_dragons.png">images/d20.png</file>
+        <file alias="monopoly.png">images/monopoly.png</file>
+        <file alias="pictionary.png">images/drawing.png</file>
+        <file alias="scrabble.png">images/scrabble_letter.png</file>
+
+        <!-- Added Later-->
+        <file alias="pickle.png">images/pickle.png</file>
+
+    </qresource>
+</RCC>
