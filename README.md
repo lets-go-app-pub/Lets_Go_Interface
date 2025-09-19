@@ -8,3 +8,12 @@ This is the interface that allows admins to communicate with the server. There a
  - Finding and updating the informating on a specific user. This also includes updating the account state to suspended/banned.
  - Check statistics for various fields of the app.
  - Manually shutdown the servers.
+
+```mermaid
+flowchart LR
+  UI[Qt Windows & Custom Widgets]
+  RPC[gRPC Channel]
+  S[Application Server]
+  DB[(MongoDB)]
+  UI -->|Command objects| RPC --> S --> DB
+  S -->|Admin responses| RPC --> UI
