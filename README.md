@@ -82,9 +82,15 @@ flowchart LR
 ---
 
 ## Related
-- **Server (C++)** — https://github.com/lets-go-app-pub/Lets_Go_Server  
-- **Android Client (Kotlin)** — https://github.com/lets-go-app-pub/Lets_Go_Android_Client  
-- **Protobuf Definitions** — https://github.com/lets-go-app-pub/Lets_Go_Protobuf
+
+- **Android Client (Kotlin)** — auth, profiles, activities, chat *(SDK versions may be dated)*  
+  👉 [`Lets_Go_Android_Client`](https://github.com/lets-go-app-pub/Lets_Go_Android_Client)
+
+- **Server (C++)** — stateless hub, gRPC/Protobuf, MongoDB  
+  👉 [`Lets_Go_Server`](https://github.com/lets-go-app-pub/Lets_Go_Server)
+
+- **Protobuf Files** — protobuf files used to communicate between server and clients  
+  👉 [`Lets_Go_Protobuf`](https://github.com/lets-go-app-pub/Lets_Go_Protobuf)
 
 ## Status & compatibility
 Portfolio reference. Built with Qt at the time of development; modern Qt toolchains/licensing may be required to build.
