@@ -13,8 +13,8 @@ flowchart LR
   RPC[gRPC Channel]
   S[Application Server]
   DB[(MongoDB)]
-  UI --> |Command objects| RPC --> |Admin responses| S --> DB
-  S --> RPC --> UI
+  UI --> RPC --> |Admin responses| S --> DB
+  S --> RPC --> |Command objects| UI
 ```
 
 ---
